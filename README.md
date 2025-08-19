@@ -4,7 +4,7 @@
 👋 Hi, I'm Adam! I specialize in AI/ML solutions, data analytics, and business process automation. I'm passionate about teaching and helping organizations leverage technology for better outcomes.
 
 ## 🎓 Education & Teaching
-- **Adjunct Professor**, University of Iowa Tippie College of Business
+- **Adjunct Instructor**, University of Iowa Tippie College of Business
   - Teaching Data Programming in Python
   - Helping students build practical data science skills
 
@@ -14,14 +14,14 @@
   - Business Process Automation
   - Data Analytics & Visualization
   
-- **Data Leader** at Agilent Technologies
-  - Leading digital transformation initiatives
+- **Customer Experience Analytics Manager** at Agilent Technologies
+  - Leading CX initiative, from survey design to dashboarding to AI workflows
   - Implementing AI/ML solutions
   - Process automation and optimization
 
 ## 🛠️ Technical Skills
-- **Languages**: Python, SQL, JavaScript
-- **Cloud & Infrastructure**: Azure, Static Web Apps, Functions
+- **Languages**: Python, R, SQL, DAX, JavaScript
+- **Cloud & Infrastructure**: Azure, AWS, Self-hosted solutions
 - **AI/ML**: RAG Systems, LLMs, Azure OpenAI
 - **Data**: Analytics, Visualization, ETL
 - **Web**: HTML/CSS, Static Site Generation
