@@ -1,40 +1,48 @@
 # Adam Meeker
-### AI, Automation & Analytics Consultant | Educator | Data Leader
+### Analytics Leader | AI Consultant | Educator
 
-👋 Hi, I'm Adam! I specialize in AI/ML solutions, data analytics, and business process automation. I'm passionate about teaching and helping organizations leverage technology for better outcomes.
+I'm a data and analytics leader with over two decades of experience helping Fortune 500 companies and growing businesses harness the power of data, AI, and automation. My career spans roles at **Agilent Technologies** and **Integrated DNA Technologies**, where I've led initiatives in customer experience analytics, commercial analytics, business intelligence, and AI-driven solutions.
 
-## 🎓 Education & Teaching
-- **Adjunct Instructor**, University of Iowa Tippie College of Business
-  - Teaching Data Programming in Python, Data Programming in R, Data & Decision, and Business Analytics to over 750 students since 2018.
-  - Helping students build practical data science skills, applying what they learn to their daily workflows. 
+Beyond my corporate work, I'm passionate about education. Since 2018, I've taught graduate-level analytics courses at the **University of Iowa Tippie College of Business**, helping over 800 students develop skills in Python, R, and data-driven decision making. I'm also an Adjunct Instructor at **Kirkwood Community College**, where I teach introductory programming classes in the Cybersecurity program within the Business & IT school.
 
-## 💼 Professional Experience
-- **Principal Consultant** at Meeker Technologies, LLC
-  - AI/ML Solutions Architecture
-  - Business Process Automation
-  - Data Analytics & Visualization
-  
-- **Customer Experience Analytics Manager** at Agilent Technologies
-  - Leading CX initiatives, from survey design to dashboarding to AI workflows
-  - Implementing advanced CX solutions in Qualtrics, with a mix of Python and APIs
-  - Process automation and optimization, power user enablement
+My journey includes a comeback story: from failing out of college with a 1.08 GPA to earning five advanced degrees, including being the first graduate of Drake University's Master of Data Analytics Leadership program (Student of the Year, 2020).
 
-## 🛠️ Technical Skills
-- **Languages**: Python, R, SQL, DAX, JavaScript
-- **Cloud & Infrastructure**: Azure, Self-hosted solutions
-- **AI/ML**: Predictive Analytics, RAG Systems/Custom Chatbots, LLMs, Azure OpenAI
-- **Data**: Analytics, Visualization, ETL, Power BI, Excel
-- **Web**: HTML/CSS, Static Site Generation
-- **Tools**: Git, VS Code
+## Areas of Expertise
 
-## 📚 Teaching Materials
-- Python Data Programming Course (Coming Soon)
-- Data Science Workshops and Tutorials
+- **Artificial Intelligence** - LLMs, NLP, chatbots, sentiment analysis, generative AI, prompt engineering
+- **Analytics & BI** - Predictive modeling, forecasting, KPI development, Power BI, Tableau
+- **Customer Experience** - CX analytics, survey design, journey mapping, Qualtrics administration
+- **Automation** - Workflow automation, Power Automate, process optimization
+- **Programming** - Python, R, SQL, JavaScript, DAX, PowerShell
 
-## 🤝 Let's Connect
+## Professional Experience
+
+| Role | Organization | Period |
+|------|--------------|--------|
+| Customer Experience Analytics Manager | Agilent Technologies | 2023 - Present |
+| Adjunct Lecturer | University of Iowa Tippie College of Business | 2018 - Present |
+| Senior Analyst, Commercial Analytics | Integrated DNA Technologies | 2020 - 2023 |
+| Earlier Roles (CX Analyst, IT Management) | Integrated DNA Technologies | 2007 - 2020 |
+
+## Education
+
+- **Master of Data Analytics Leadership** - Drake University, 2020 *(Student of the Year)*
+- **Master of Science in Business Analytics** - University of Iowa, 2016
+- **Master of Business Administration** - University of Iowa, 2014
+- **B.B.A. in MIS & Marketing** - University of Iowa, 2007
+
+## By the Numbers
+
+- **800+** students taught
+- **20+** years of experience
+- **5** advanced degrees
+
+## Let's Connect
+
 - [Personal Website](https://adammeeker.com)
-- [LinkedIn Profile](https://www.linkedin.com/in/adam-meeker/)
-- [University Profile](https://tippie.uiowa.edu/people/adam-meeker)
+- [LinkedIn](https://www.linkedin.com/in/adam-meeker/)
+- [University of Iowa Profile](https://tippie.uiowa.edu/people/adam-meeker)
 
 ---
-*This README serves as my GitHub profile introduction. For consulting inquiries or collaboration opportunities, please reach out via my website or LinkedIn.*
+
+*Interested in consulting, speaking, training, or collaboration? Reach out via my website or LinkedIn.*
